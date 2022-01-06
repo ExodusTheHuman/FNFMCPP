@@ -1,0 +1,94 @@
+{
+	"songs": [
+		[
+			"black-sun",
+			"exe",
+			[
+				26,
+				0,
+				193
+			]
+		],
+		[
+			"chaos",
+			"fleetway",
+			[
+				255,
+				255,
+				75
+			]
+		],
+		[
+			"cycles",
+			"sonicLordX",
+			[
+				40,
+				40,
+				80
+			]
+		],
+		[
+			"endless",
+			"sonicfun",
+			[
+				6,
+				0,
+				253
+			]
+		],
+		[
+			"faker",
+			"faker",
+			[
+				46,
+				0,
+				173
+			]
+		],
+		[
+			"milk",
+			"sunky",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"sunshine",
+			"TDoll",
+			[
+				186,
+				133,
+				0
+			]
+		],
+		[
+			"too-fest",
+			"sanic",
+			[
+				0,
+				0,
+				115
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "sonicexeothersongs",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
